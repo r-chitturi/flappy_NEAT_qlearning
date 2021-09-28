@@ -1,7 +1,6 @@
 # NEAT - Codeology Fall 2021
 
 ## **Setup**
-<hr>
 
 ### **Installing Python**
 Make sure that you have Python 3.7.7 or higher:
@@ -24,7 +23,7 @@ Download from this website: [Python 3](https://www.python.org/downloads/windows/
 
 ### **Clone the Repository**
 ```
-// Not finished yet
+git clone https://github.com/allengu01/flappy-starter.git
 ```
 
 ### **Setting Up a Virtual Environment**
